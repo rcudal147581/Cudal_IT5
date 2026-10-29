@@ -1,2 +1,1 @@
-name ="ruel"
-age = "15"
+print ("hello world")
